@@ -12,7 +12,7 @@ Projeto A3 Faculdade
 <br>
 
 <p align="center">
-  <img alt="EcoDescarte" src=".github/ecossistem.PNG" width="100%">
+  <img alt="EcoDescarte" src=".github/Ecossistem.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
